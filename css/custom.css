@@ -189,3 +189,12 @@ button {
         font-size: 3.6rem;
     }
 }
+
+.logo-title {
+    display: flex;
+    align-items: baseline;
+}
+
+.logo-text {
+    font-size: 1.9em;
+}
